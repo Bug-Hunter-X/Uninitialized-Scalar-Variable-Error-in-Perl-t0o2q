@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl programming: using uninitialized scalar variables.  Uninitialized scalar variables, when accessed before assignment, result in runtime errors. The solution showcases safe variable initialization and error handling techniques.
